@@ -1,0 +1,10 @@
+﻿Specific_Bond,Bond_Type,Period_1,Period_2,Period_3,Period_4,Period_5
+10-Year Treasury Bond,U.S. Treasury Bond,0.005,0.0045,0.0055,0.005,0.006
+20-Year Treasury Bond,U.S. Treasury Bond,0.006,0.0055,0.005,0.0065,0.0055
+30-Year Treasury Bond,U.S. Treasury Bond,0.0065,0.007,0.006,0.0065,0.0075
+AAA-Rated Corporate Bond,Corporate Bond,0.007,0.0065,0.0075,0.007,0.008
+BBB-Rated Corporate Bond,Corporate Bond,0.01,0.0095,0.0105,0.01,0.011
+High-Yield Corporate Bond,Corporate Bond,0.015,0.014,0.016,0.0155,0.017
+General Obligation Bond,Municipal Bond,0.004,0.0045,0.005,0.004,0.0055
+Revenue Bond,Municipal Bond,0.0055,0.005,0.006,0.0055,0.0065
+Taxable Municipal Bond,Municipal Bond,0.008,0.0075,0.0085,0.008,0.009
